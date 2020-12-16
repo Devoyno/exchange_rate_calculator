@@ -1,8 +1,10 @@
 # exchange_rate_calculator
 
-![Screenshot](ss.png)
+![Screenshot](images/ss.png)
 
 Exchange Rate Calculator - Vanilla JS Project
+
+View project @: https://devoyno.github.io/exchange_rate_calculator/
 
 ## Exchange Rate
 
